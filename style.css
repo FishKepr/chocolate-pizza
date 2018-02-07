@@ -1,0 +1,16 @@
+#logoimage {
+    float: left;
+}
+
+#rightheader {
+    float: right;
+    display: inline-block;
+}
+
+header{
+    height: 75px;
+}
+
+header ul li {
+    display: inline-block;
+}
